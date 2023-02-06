@@ -1,1 +1,4 @@
 #Git tutorials details wiil be done
+public List<User> getuserbyid(String name){
+
+}
